@@ -3,7 +3,6 @@
 Bem-vindo(a) ao meu repositório de exercícios de programação! 🎉
 
 Aqui, você encontrará soluções para uma série de problemas que resolvi das plataformas [LeetCode](https://leetcode.com/) e [Beecrowd](https://www.beecrowd.com.br/).
-Este repositório é um espaço onde estou praticando minhas habilidades de programação e explorando diferentes algoritmos e estruturas de dados. 
 
 ## Sobre
 
@@ -16,21 +15,22 @@ Estou utilizando este repositório para organizar minhas soluções e acompanhar
 
 ## 📝 Estrutura do Repositório
 
-```bash
-📦 Exercicios
-├── 📂 LeetCode
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── 📂 Beecrowd
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
+``` bash
+📦 ExerciciosLeetCode
+├── 📂 Exercicios
+│   ├── 📂 Amazon Spring 23 High Frequency
+│   │   └── The_kth_Factor_of_n.py
+│   ├── 📂 beecrowd
+│   │   ├── Age_in_Days.py
+│   │   ├── Division_of_Nlogonia.py
+│   │   └── Simple_Sort.py
+├── 📄 README.md
+
+- A pasta "Amazon Spring 23 High Frequency" é destinada a desafios frequentes usados em entrevistas na Amazon.
+- A pasta **beecrowd** inclui exercícios resolvidos de algoritmos variados.
+
 ```
 
-## Objetivo
-
-Meu objetivo com este repositório é melhorar minhas habilidades de resolução de problemas, aprofundar meu conhecimento em algoritmos e estruturas de dados, e me preparar para desafios futuros em competições e entrevistas técnicas.
 
 ## Contribuição
 
@@ -38,4 +38,7 @@ Embora este repositório seja principalmente um espaço para minha prática pess
 
 ## Contato
 
-- **Email:** [lownialore@gmail.com]
+[![Follow on X](https://img.shields.io/badge/Follow-@lownialore-F06292?logo=twitter&style=for-the-badge)](https://x.com/lownialore)
+
+
+
