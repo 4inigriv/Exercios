@@ -18,7 +18,7 @@ Estou utilizando este repositório para organizar minhas soluções e acompanhar
 ``` bash
 📦 ExerciciosLeetCode
 ├── 📂 Exercicios
-│   ├── 📂 Amazon Spring '23 High Frequency
+│   ├── 📂 Amazon Spring 23 High Frequency
 │   │   └── The_kth_Factor_of_n.py
 │   ├── 📂 beecrowd
 │   │   ├── Age_in_Days.py
@@ -26,7 +26,7 @@ Estou utilizando este repositório para organizar minhas soluções e acompanhar
 │   │   └── Simple_Sort.py
 ├── 📄 README.md
 
-- A pasta "Amazon Spring '23 High Frequency" é destinada a desafios frequentes usados em entrevistas na Amazon.
+- A pasta "Amazon Spring 23 High Frequency" é destinada a desafios frequentes usados em entrevistas na Amazon.
 - A pasta **beecrowd** inclui exercícios resolvidos de algoritmos variados.
 
 ```
