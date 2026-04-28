@@ -1,0 +1,8 @@
+a ideia geral he BASICAMENTE é:
+1. cria um no novo
+2. anda ate o final
+3. faz o ultimo nó apontar para o o novo 
+como faço a 2 e 3? simples
+um while p percorrer e no final aponta o next.node para o novo valor
+
+caso eu tenha dúvidas no futuro: file:///C:/Users/virgi/Downloads/inserir_no_final_iterativo.html

@@ -16,4 +16,4 @@ E ELA VAI PASSAR PELO PROCESSO DENOVO DE RECEBER O ESQUERDO ETC..
 SO DEPOIS VAI VIR O 
 INVETTREE(ROOT -> RIGHT). QUE AI VAI FZR A MESMA COISA COM OS FILHOS DELE
 
--> file:///C:/Users/virgi/Downloads/invert_tree_animado.html
+-> inverter: file:///C:/Users/virgi/Downloads/invert_tree_animado.html
